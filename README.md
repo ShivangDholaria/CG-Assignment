@@ -1,7 +1,7 @@
 # Ping Pong Game (CG-Assignment)
 
 
-This is a  Ping Pong Game which is an OpenGL Project where the user has to continuously hit the ball so that it doesnot passes it.
+This is a  Ping Pong Game which is an OpenGL Project where the user has to continuously hit the ball so that it does not passes it.
 
 <br/>
 
