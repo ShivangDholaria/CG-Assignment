@@ -1,7 +1,10 @@
 # Ping Pong Game (CG-Assignment)
 
+A simple Pong game made in C++ and OpenGL.
 
-This is a  Ping Pong Game which is an OpenGL Project where the user has to continuously hit the ball so that it does not passes it.
+This is a semeter end project.
+
+The user has to continuously hit the ball so that it does not passes it.
 
 <br/>
 
